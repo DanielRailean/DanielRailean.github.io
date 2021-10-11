@@ -21,7 +21,9 @@ a{
     color:#2F61D6;
 
 }
-
+.details>a{
+    color: white;
+}
 img{
     max-width: 100%;
 }
